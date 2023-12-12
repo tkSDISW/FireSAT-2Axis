@@ -223,7 +223,7 @@
               <ownedPropertyValues xsi:type="org.polarsys.capella.core.data.capellacore:StringPropertyValue"
                   id="47eb8b1a-3c3d-4387-8b87-8e8a24169996" name="Units" value="Kg"/>
               <ownedPropertyValues xsi:type="org.polarsys.capella.core.data.capellacore:FloatPropertyValue"
-                  id="895ef35e-c9d2-469a-8af9-91037c9f8a49" name="Value" value="7.02"/>
+                  id="895ef35e-c9d2-469a-8af9-91037c9f8a49" name="Value" value="8.51"/>
             </ownedPropertyValueGroups>
             <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="c119e0ce-3e3f-4f94-a0ce-d9249f01eaf4"
                 name="Solar Array" abstractType="#06f77343-6fa5-40ad-a4ce-70d888d6c0ac"/>
